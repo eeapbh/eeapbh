@@ -28,7 +28,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eeapbh&show_icons=true&theme=gruvbox" alt="eeapbh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eeapbh&show_icons=true&theme=black" alt="eeapbh's GitHub stats" />
 </p>
 <br/>
 
