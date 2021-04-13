@@ -21,8 +21,10 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&layout=compact)](https://github.com/eeapbh/github-readme-stats)
-github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&langs_count=8
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&layout=compact)]
+
+<img src="github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&langs_count=8" />
+
 
 
 
