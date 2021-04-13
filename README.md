@@ -22,6 +22,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&layout=compact)](https://github.com/eeapbh/github-readme-stats)
+github-readme-stats.vercel.app/api/top-langs/?username={사용자명}&langs_count=8
+
 
 
 <h3 align="center">💻 Career 💻</h3>
