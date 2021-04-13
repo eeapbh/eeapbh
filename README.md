@@ -21,10 +21,6 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&layout=compact)]
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eeapbh&langs_count=10" />
-
 
 
 
