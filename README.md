@@ -20,6 +20,7 @@
   <img src="https://img.shields.io/badge/React-1867C0?style=flat-square&logo=React&logoColor=white" />
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">💻 Career 💻</h3>
