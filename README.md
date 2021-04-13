@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-1867C0?style=flat-square&logo=Vuetify&logoColor=white" />
 </p>
 
 
@@ -25,11 +26,11 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baekgol&show_icons=true&theme=gruvbox" alt="Baekgol's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eeapbh&show_icons=true&theme=gruvbox" alt="eeapbh's GitHub stats" />
 </p>
 <br/>
 
 <p align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=changu18" alt="Solved.ac" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eeapbh" alt="Solved.ac" />
 </p>
 
